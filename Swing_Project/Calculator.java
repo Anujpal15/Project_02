@@ -7,7 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /*
-   This calculator has one problem if you try to add, multiple or divide a number by zero is throw a incorrect answer.
+   This calculator has one problem if you try to add, multiple or divide a number by zero is throw an incorrect answer.
    I'll this problem try to solve when i'm understand how can i solve this problem.
 
  */
